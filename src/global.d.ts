@@ -13,6 +13,7 @@ declare namespace Pwamap {
     'Instagram': string;
     'Twitter': string;
     '公式サイト': string
+    '電話番号': string
   }
 
   type LngLat = [number, number]
