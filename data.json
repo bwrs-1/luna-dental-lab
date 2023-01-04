@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J206",
+  "range": "'スポットデータ'!A1:L206",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -12,7 +12,9 @@
       "紹介文",
       "Instagram",
       "Twitter",
-      "公式サイト"
+      "公式サイト",
+      "Facebook",
+      "電話番号"
     ],
     [
       "2022/05/11 14:46:34",
@@ -24,7 +26,9 @@
       "住所大阪府吹田市南高浜町32-25アティーズ安威1F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604308/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604308/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/12 14:46:34",
@@ -36,7 +40,9 @@
       "住所大阪府吹田市千里山東1-6-16THプラザビル106号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603813/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603813/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/13 14:46:34",
@@ -48,7 +54,9 @@
       "住所大阪府吹田市南金田1-2-20",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001139/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001139/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/14 14:46:34",
@@ -60,7 +68,9 @@
       "住所大阪府吹田市豊津町1-18エクラート江坂ビル2F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602666/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602666/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/15 14:46:34",
@@ -72,7 +82,9 @@
       "住所大阪府吹田市垂水町1-29-1アベニール江坂Ⅱ　1F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005503/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005503/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/16 14:46:34",
@@ -84,7 +96,9 @@
       "住所大阪府吹田市千里山東２－２２－２０",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200004204/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200004204/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/17 14:46:34",
@@ -96,7 +110,9 @@
       "住所大阪府吹田市岸部中3-23-2ホワイト岸辺ビル1F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603607/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603607/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/18 14:46:34",
@@ -108,7 +124,9 @@
       "住所大阪府吹田市寿町2-5-7",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604027/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604027/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/19 14:46:34",
@@ -120,7 +138,9 @@
       "住所大阪府吹田市日の出町27-14パークソレイユ2F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603276/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603276/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/20 14:46:34",
@@ -132,7 +152,9 @@
       "住所大阪府吹田市豊津町2-11第2喜巳ビル1F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200004170/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200004170/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/21 14:46:34",
@@ -144,7 +166,9 @@
       "住所大阪府吹田市樫切山２１Ｓ－１２",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601155/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601155/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/22 14:46:34",
@@ -156,7 +180,9 @@
       "住所大阪府吹田市穂波町20-4寺田ビル2F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/TP00267874/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/TP00267874/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/23 14:46:34",
@@ -168,7 +194,9 @@
       "住所大阪府吹田市原町1-36-3エクレールⅡ2F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603029/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603029/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/24 14:46:34",
@@ -180,7 +208,9 @@
       "住所大阪府吹田市岸部新町5番45号ビエラ岸辺健都 健都クリニックモール内",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005791/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005791/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/25 14:46:34",
@@ -192,7 +222,9 @@
       "住所大阪府吹田市片山町1-5-15",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601858/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601858/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/26 14:46:34",
@@ -204,7 +236,9 @@
       "住所大阪府吹田市津雲台4-2-3",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005969/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005969/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/27 14:46:34",
@@ -216,7 +250,9 @@
       "住所大阪府吹田市竹見台3-6-1アベニュー竹見台301",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603854/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603854/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/28 14:46:34",
@@ -228,7 +264,9 @@
       "住所大阪府吹田市江坂町1-17-23江坂Mビル2F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603631/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603631/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/29 14:46:34",
@@ -240,7 +278,9 @@
       "住所大阪府吹田市千里山東2-26-24",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/y100002043/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/y100002043/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/30 14:46:34",
@@ -252,7 +292,9 @@
       "住所大阪府吹田市山田西2-4-25",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200008024/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200008024/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/05/31 14:46:34",
@@ -264,7 +306,9 @@
       "住所大阪府吹田市南高浜町32-25アティーズ安威1F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604308/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604308/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/01 14:46:34",
@@ -276,7 +320,9 @@
       "住所大阪府吹田市千里山東1-6-16THプラザビル106号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603813/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603813/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/02 14:46:34",
@@ -288,7 +334,9 @@
       "住所大阪府吹田市南金田1-2-20",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001139/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001139/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/03 14:46:34",
@@ -300,7 +348,9 @@
       "住所大阪府吹田市豊津町1-18エクラート江坂ビル2F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602666/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602666/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/04 14:46:34",
@@ -312,7 +362,9 @@
       "住所大阪府吹田市垂水町1-29-1アベニール江坂Ⅱ　1F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005503/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005503/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/05 14:46:34",
@@ -324,7 +376,9 @@
       "住所大阪府吹田市千里山東２－２２－２０",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200004204/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200004204/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/06 14:46:34",
@@ -336,7 +390,9 @@
       "住所大阪府吹田市岸部中3-23-2ホワイト岸辺ビル1F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603607/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603607/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/07 14:46:34",
@@ -348,7 +404,9 @@
       "住所大阪府吹田市寿町2-5-7",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604027/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604027/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/08 14:46:34",
@@ -360,7 +418,9 @@
       "住所大阪府吹田市日の出町27-14パークソレイユ2F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603276/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603276/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/09 14:46:34",
@@ -372,7 +432,9 @@
       "住所大阪府吹田市豊津町2-11第2喜巳ビル1F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200004170/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200004170/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/10 14:46:34",
@@ -384,7 +446,9 @@
       "住所大阪府吹田市樫切山２１Ｓ－１２",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601155/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601155/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/11 14:46:34",
@@ -396,7 +460,9 @@
       "住所大阪府吹田市穂波町20-4寺田ビル2F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/TP00267874/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/TP00267874/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/12 14:46:34",
@@ -408,7 +474,9 @@
       "住所大阪府吹田市原町1-36-3エクレールⅡ2F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603029/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603029/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/13 14:46:34",
@@ -420,7 +488,9 @@
       "住所大阪府吹田市岸部新町5番45号ビエラ岸辺健都 健都クリニックモール内",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005791/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005791/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/14 14:46:34",
@@ -432,7 +502,9 @@
       "住所大阪府吹田市片山町1-5-15",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601858/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601858/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/15 14:46:34",
@@ -444,7 +516,9 @@
       "住所大阪府吹田市津雲台4-2-3",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005969/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005969/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/16 14:46:34",
@@ -456,7 +530,9 @@
       "住所大阪府吹田市竹見台3-6-1アベニュー竹見台301",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603854/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603854/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/17 14:46:34",
@@ -468,7 +544,9 @@
       "住所大阪府吹田市江坂町1-17-23江坂Mビル2F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603631/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603631/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/18 14:46:34",
@@ -480,7 +558,9 @@
       "住所大阪府吹田市千里山東2-26-24",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/y100002043/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/y100002043/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/19 14:46:34",
@@ -492,7 +572,9 @@
       "住所大阪府吹田市山田西2-4-25",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200008024/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200008024/tab/6/",
+      "",
+      "0066-9809-634684"
     ],
     [
       "2022/06/20 14:46:34",
@@ -504,7 +586,9 @@
       "住所大阪府吹田市古江台2-8-10",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602658/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602658/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/06/21 14:46:34",
@@ -516,7 +600,9 @@
       "住所大阪府吹田市千里山東2-27-27",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001726/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001726/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/06/22 14:46:34",
@@ -528,7 +614,9 @@
       "住所大阪府吹田市豊津町11-37",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603094/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603094/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/06/23 14:46:34",
@@ -540,7 +628,9 @@
       "住所大阪府吹田市千里山東1-16-16メゾンオート第2ビル1F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601486/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601486/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/06/24 14:46:34",
@@ -552,7 +642,9 @@
       "住所大阪府吹田市千里山東1-4-15",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200007532/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200007532/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/06/25 14:46:34",
@@ -564,7 +656,9 @@
       "住所大阪府吹田市千里山霧が丘9-1千里山メディカルモール2F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200007618/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200007618/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/06/26 14:46:34",
@@ -576,7 +670,9 @@
       "住所大阪府吹田市岸部中5-1-1 オアシスタウン吹田SST 2F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200008044/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200008044/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/06/27 14:46:34",
@@ -588,7 +684,9 @@
       "住所大阪府吹田市千里山西4-38-5ハイマート緑地公園1F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200007642/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200007642/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/06/28 14:46:34",
@@ -600,7 +698,9 @@
       "住所大阪府吹田市古江台4-2-60千里ノルテビル(北千里医療ビル)401号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603359/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603359/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/06/29 14:46:34",
@@ -612,7 +712,9 @@
       "住所大阪府吹田市山手町1-19-13",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603870/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603870/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/06/30 14:46:34",
@@ -624,7 +726,9 @@
       "住所大阪府吹田市朝日が丘町16-5",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200006310/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200006310/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/07/01 14:46:34",
@@ -636,7 +740,9 @@
       "住所大阪府吹田市片山町１－４－１",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602484/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602484/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/07/02 14:46:34",
@@ -648,7 +754,9 @@
       "住所大阪府吹田市豊津町14-12ダイトー江坂ビル1F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604324/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604324/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/07/03 14:46:34",
@@ -660,7 +768,9 @@
       "住所大阪府吹田市片山町2-4-1吹田グリーンプレイス2F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001530/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001530/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/07/04 14:46:34",
@@ -672,7 +782,9 @@
       "住所大阪府吹田市藤白台２－１－１５",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200000738/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200000738/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/07/05 14:46:34",
@@ -684,7 +796,9 @@
       "住所大阪府吹田市豊津町2-30江坂ナックビル101",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603805/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603805/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/07/06 14:46:34",
@@ -696,7 +810,9 @@
       "住所大阪府吹田市山田東2-1-1",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603045/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603045/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/07/07 14:46:34",
@@ -708,7 +824,9 @@
       "住所大阪府吹田市広芝町9-17M’s COMFORT ESAKA 203",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001961/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001961/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/07/08 14:46:34",
@@ -720,7 +838,9 @@
       "住所大阪府吹田市藤白台1-3-30",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005565/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005565/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/07/09 14:46:34",
@@ -732,7 +852,9 @@
       "住所大阪府吹田市千里山西1-40-8",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731600728/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731600728/tab/6/",
+      "",
+      "0066-9801-213057"
     ],
     [
       "2022/07/10 14:46:34",
@@ -744,7 +866,9 @@
       "住所大阪府吹田市垂水町1-15-4ドミール垂水1F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603508/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603508/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/11 14:46:34",
@@ -756,7 +880,9 @@
       "住所大阪府吹田市桃山台5-2-2アザ－ル桃山台3F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603458/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603458/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/12 14:46:34",
@@ -768,7 +894,9 @@
       "住所大阪府吹田市佐竹台２－５－８",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603888/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603888/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/13 14:46:34",
@@ -780,7 +908,9 @@
       "住所大阪府吹田市山田南２２－５",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001174/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001174/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/14 14:46:34",
@@ -792,7 +922,9 @@
       "住所大阪府吹田市高野台1-6-16",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602062/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602062/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/15 14:46:34",
@@ -804,7 +936,9 @@
       "住所大阪府吹田市江の木町16-231F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601403/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601403/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/16 14:46:34",
@@ -816,7 +950,9 @@
       "住所大阪府吹田市江坂町１－２３－３２リバーボール江坂ビル４Ｆ",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/h900000023/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/h900000023/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/17 14:46:34",
@@ -828,7 +964,9 @@
       "住所大阪府吹田市佐井寺南が丘12-1",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603086/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603086/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/18 14:46:34",
@@ -840,7 +978,9 @@
       "住所大阪府吹田市千里山東４－６－１０ウェストフィールド７２階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200000535/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200000535/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/19 14:46:34",
@@ -852,7 +992,9 @@
       "住所大阪府吹田市垂水町３－３５－１８成晃ビル２Ｆ",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000002082/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000002082/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/20 14:46:34",
@@ -864,7 +1006,9 @@
       "住所大阪府吹田市豊津町12-8サンクリエイト1F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603342/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603342/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/21 14:46:34",
@@ -876,7 +1020,9 @@
       "住所大阪府吹田市南吹田５－１－３０",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/g000007945/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/g000007945/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/22 14:46:34",
@@ -888,7 +1034,9 @@
       "住所大阪府吹田市長野東18-1千里セピアテラス201",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601676/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601676/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/23 14:46:34",
@@ -900,7 +1048,9 @@
       "住所大阪府吹田市原町4-23-4",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603987/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603987/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/24 14:46:34",
@@ -912,7 +1062,9 @@
       "住所大阪府吹田市山田西3-57-20ピアパレス王子1F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602971/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602971/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/25 14:46:34",
@@ -924,7 +1076,9 @@
       "住所大阪府吹田市江坂町1-23-5大同生命江坂第二ビル1F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602609/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602609/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/26 14:46:34",
@@ -936,7 +1090,9 @@
       "住所大阪府吹田市千里山東2-23-9",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603177/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603177/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/27 14:46:34",
@@ -948,7 +1104,9 @@
       "住所大阪府吹田市古江台4-2-25ディオス北千里5番館1F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602625/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602625/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/28 14:46:34",
@@ -960,7 +1118,9 @@
       "住所大阪府吹田市泉町3-19-27フォート・ビラージュ黒田202号室",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603417/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603417/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/29 14:46:34",
@@ -972,7 +1132,9 @@
       "住所大阪府吹田市五月が丘北13-1第2旭永ビル1F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604050/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604050/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/30 14:46:34",
@@ -984,7 +1146,9 @@
       "住所大阪府吹田市山田南1-1イズミヤ千里丘店2F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005721/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005721/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/07/31 14:46:34",
@@ -996,7 +1160,9 @@
       "住所大阪府吹田市元町4-8名匠医館3階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005653/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005653/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/01 14:46:34",
@@ -1008,7 +1174,9 @@
       "住所大阪府吹田市千里山月が丘16-1",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200004354/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200004354/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/02 14:46:34",
@@ -1020,7 +1188,9 @@
       "住所大阪府吹田市岸部北２－１－２４",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/TP00282706/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/TP00282706/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/03 14:46:34",
@@ -1032,7 +1202,9 @@
       "住所大阪府吹田市出口町２６－１",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001064/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001064/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/04 14:46:34",
@@ -1044,7 +1216,9 @@
       "住所大阪府吹田市岸部中3-13-6101号室",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200004238/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200004238/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/05 14:46:34",
@@ -1056,7 +1230,9 @@
       "住所大阪府吹田市新芦屋上２０－２０",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001885/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001885/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/06 14:46:34",
@@ -1068,7 +1244,9 @@
       "住所大阪府吹田市内本町1-10-11旭ファイブ2F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602534/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602534/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/07 14:46:34",
@@ -1080,7 +1258,9 @@
       "住所大阪府吹田市千里丘北二丁目２０番",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000006549/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000006549/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/08 14:46:34",
@@ -1092,7 +1272,9 @@
       "住所大阪府吹田市片山町１－６－２３グランロゼビル１階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001425/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001425/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/09 14:46:34",
@@ -1104,7 +1286,9 @@
       "住所大阪府吹田市津雲台5-19-18千里つくも医療ビル401",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603409/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603409/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/10 14:46:34",
@@ -1116,7 +1300,9 @@
       "住所大阪府吹田市千里山西六丁目６３番２７号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602112/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602112/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/11 14:46:34",
@@ -1128,7 +1314,9 @@
       "住所大阪府吹田市岸部北五丁目３２番１号東千里ＯＭパレス１階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602831/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602831/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/12 14:46:34",
@@ -1140,7 +1328,9 @@
       "住所大阪府吹田市佐井寺三丁目１番２２号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603078/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603078/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/13 14:46:34",
@@ -1152,7 +1342,9 @@
       "住所大阪府吹田市垂水町三丁目２４番１４－１１５号グリーンコーポ江坂第２１Ｆ",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603912/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603912/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/14 14:46:34",
@@ -1164,7 +1356,9 @@
       "住所大阪府吹田市山手町一丁目８番１４号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731600686/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731600686/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/15 14:46:34",
@@ -1176,7 +1370,9 @@
       "住所大阪府吹田市寿町1-8-17サン・ヴェール・ユカミ2F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602021/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602021/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/16 14:46:34",
@@ -1188,7 +1384,9 @@
       "住所大阪府吹田市千里山竹園一丁目２１番４号ＭＥＲＲＹＨＩＬＬ緑地公園１階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000002092/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000002092/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/17 14:46:34",
@@ -1200,7 +1398,9 @@
       "住所大阪府吹田市内本町2-2-37",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601601/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601601/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/18 14:46:34",
@@ -1212,7 +1412,9 @@
       "住所大阪府吹田市朝日町１８－１２",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601643/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601643/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/19 14:46:34",
@@ -1224,7 +1426,9 @@
       "住所大阪府吹田市岸部中五丁目１番２号アビテ東千里１階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000006545/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000006545/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/20 14:46:34",
@@ -1236,7 +1440,9 @@
       "住所大阪府吹田市山手町一丁目７番７号ヴィラ山手１階１０１号室",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000002089/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000002089/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/21 14:46:34",
@@ -1248,7 +1454,9 @@
       "住所大阪府吹田市山田南29-4 104",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000002091/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000002091/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/22 14:46:34",
@@ -1260,7 +1468,9 @@
       "住所大阪府吹田市山田西２番４号Ａ１－１１４",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601411/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601411/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/23 14:46:34",
@@ -1272,7 +1482,9 @@
       "住所大阪府吹田市新芦屋上１２番１４号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602120/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602120/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/24 14:46:34",
@@ -1284,7 +1496,9 @@
       "住所大阪府吹田市泉町二丁目４７番５号第３関根マンション１階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602161/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602161/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/25 14:46:34",
@@ -1296,7 +1510,9 @@
       "住所大阪府吹田市山手町二丁目７番３号田中愛ビル２Ｆ",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602278/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602278/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/26 14:46:34",
@@ -1308,7 +1524,9 @@
       "住所大阪府吹田市上山手町３０番１３号グリーンハイム上山手１階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602740/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602740/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/27 14:46:34",
@@ -1320,7 +1538,9 @@
       "住所大阪府吹田市山田東一丁目３６番１号ライオンズマンション万博公園",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602914/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602914/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/28 14:46:34",
@@ -1332,7 +1552,9 @@
       "住所大阪府吹田市上山手町３０番１号アーバンヒルズ千里１０５",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603060/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603060/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/29 14:46:34",
@@ -1344,7 +1566,9 @@
       "住所大阪府吹田市佐竹台四丁目４番９号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603144/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603144/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/30 14:46:34",
@@ -1356,7 +1580,9 @@
       "住所大阪府吹田市佐井寺一丁目２６番１７号アクティサツキ１階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603292/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603292/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/08/31 14:46:34",
@@ -1368,7 +1594,9 @@
       "住所大阪府吹田市泉町一丁目２３番１５号第８関根マンション１階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603490/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603490/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/01 14:46:34",
@@ -1380,7 +1608,9 @@
       "住所大阪府吹田市山田西一丁目３７番５号千里ツインハイツⅡ１階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603565/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603565/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/02 14:46:34",
@@ -1392,7 +1622,9 @@
       "住所大阪府吹田市津雲台二丁目３番１１号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603623/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603623/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/03 14:46:34",
@@ -1404,7 +1636,9 @@
       "住所大阪府吹田市山田西四丁目２番６号山和ハイツ１０１",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603706/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603706/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/04 14:46:34",
@@ -1416,7 +1650,9 @@
       "住所大阪府吹田市古江台四丁目２番６０号千里ノルテビル３０３号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603235/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603235/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/05 14:46:34",
@@ -1428,7 +1664,9 @@
       "住所大阪府吹田市山田東四丁目１４番３号プリマベーラＡ棟１階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603425/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603425/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/06 14:46:34",
@@ -1440,7 +1678,9 @@
       "住所大阪府吹田市江坂町１丁目１３番４６号セレニテ江坂壱番館２Ｆ",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604068/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604068/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/07 14:46:34",
@@ -1452,7 +1692,9 @@
       "住所大阪府吹田市江坂町三丁目３２番３０号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731600405/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731600405/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/08 14:46:34",
@@ -1464,7 +1706,9 @@
       "住所大阪府吹田市円山町６番２９号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731600967/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731600967/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/09 14:46:34",
@@ -1476,7 +1720,9 @@
       "住所大阪府吹田市江坂町二丁目３番４号ケンヨービル２階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601213/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601213/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/10 14:46:34",
@@ -1488,7 +1734,9 @@
       "住所大阪府吹田市朝日町３－３０６",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601338/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601338/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/11 14:46:34",
@@ -1500,7 +1748,9 @@
       "住所大阪府吹田市高浜町４番３８号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601718/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601718/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/12 14:46:34",
@@ -1512,7 +1762,9 @@
       "住所大阪府吹田市垂水町二丁目２１番２０号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601759/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601759/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/13 14:46:34",
@@ -1524,7 +1776,9 @@
       "住所大阪府吹田市千里山西五丁目６番２７号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601874/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601874/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/14 14:46:34",
@@ -1536,7 +1790,9 @@
       "住所大阪府吹田市片山町三丁目１５番１８号サンクレオビル１階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601932/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601932/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/15 14:46:34",
@@ -1548,7 +1804,9 @@
       "住所大阪府吹田市南正雀二丁目５番１４号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602138/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602138/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/16 14:46:34",
@@ -1560,7 +1818,9 @@
       "住所大阪府吹田市片山町四丁目１４番２１号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602195/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602195/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/17 14:46:34",
@@ -1572,7 +1832,9 @@
       "住所大阪府吹田市元町９番１号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602328/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602328/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/18 14:46:34",
@@ -1584,7 +1846,9 @@
       "住所大阪府吹田市日の出町９－１３",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602351/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602351/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/19 14:46:34",
@@ -1596,7 +1860,9 @@
       "住所大阪府吹田市岸部南一丁目２５番７号３３番館２階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602674/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602674/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/20 14:46:34",
@@ -1608,7 +1874,9 @@
       "住所大阪府吹田市千里山西三丁目４０番１０号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602682/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602682/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/21 14:46:34",
@@ -1620,7 +1888,9 @@
       "住所大阪府吹田市千里山西六丁目３２番５号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603110/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603110/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/22 14:46:34",
@@ -1632,7 +1902,9 @@
       "住所大阪府吹田市末広町２０番２４号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603151/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603151/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/23 14:46:34",
@@ -1644,7 +1916,9 @@
       "住所大阪府吹田市千里山西六丁目５６－２グレースコート千里山１階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603193/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603193/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/24 14:46:34",
@@ -1656,7 +1930,9 @@
       "住所大阪府吹田市千里山西五丁目１番１号千里山阪急ビル３階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603227/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603227/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/25 14:46:34",
@@ -1668,7 +1944,9 @@
       "住所大阪府吹田市内本町一丁目７番１７号吉広ビル１階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603326/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603326/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/26 14:46:34",
@@ -1680,7 +1958,9 @@
       "住所大阪府吹田市千里山東四丁目２番１３号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603573/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603573/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/27 14:46:34",
@@ -1692,7 +1972,9 @@
       "住所大阪府吹田市江坂町一丁目１７番１４号江坂吉川ビル２階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603821/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603821/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/28 14:46:34",
@@ -1704,7 +1986,9 @@
       "住所大阪府吹田市山田東四丁目１７番２９号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602468/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602468/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/29 14:46:34",
@@ -1716,7 +2000,9 @@
       "住所大阪府吹田市朝日町１４－５",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602369/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602369/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/09/30 14:46:34",
@@ -1728,7 +2014,9 @@
       "住所大阪府吹田市上山手町１５番２８号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602856/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602856/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/01 14:46:34",
@@ -1740,7 +2028,9 @@
       "住所大阪府吹田市山田南３０番１８号ディアコートミキ１０１号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603540/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603540/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/02 14:46:34",
@@ -1752,7 +2042,9 @@
       "住所大阪府吹田市佐井寺１丁目１１番１８号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604142/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604142/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/03 14:46:34",
@@ -1764,7 +2056,9 @@
       "住所大阪府吹田市千里山竹園一丁目６番３号パインフィールド緑地公園１階１０１号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603219/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603219/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/04 14:46:34",
@@ -1776,7 +2070,9 @@
       "住所大阪府吹田市長野東２４番１１号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602088/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602088/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/05 14:46:34",
@@ -1788,7 +2084,9 @@
       "住所大阪府吹田市桃山台２丁目４番１号小林ビル１階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604126/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604126/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/06 14:46:34",
@@ -1800,7 +2098,9 @@
       "住所大阪府吹田市佐井寺3-21-12101",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603250/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603250/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/07 14:46:34",
@@ -1812,7 +2112,9 @@
       "住所大阪府吹田市古江台1-18-1",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601361/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601361/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/08 14:46:34",
@@ -1824,7 +2126,9 @@
       "住所大阪府吹田市五月が丘南３２－１ハイタウン樽澤２階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601973/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601973/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/09 14:46:34",
@@ -1836,7 +2140,9 @@
       "住所大阪府吹田市山田南３０番８号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602096/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602096/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/10 14:46:34",
@@ -1848,7 +2154,9 @@
       "住所大阪府吹田市五月が丘北１番１０号メロディーハイツ五月が丘２階２０５号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602963/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602963/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/11 14:46:34",
@@ -1860,7 +2168,9 @@
       "住所大阪府吹田市五月が丘北二丁目５２番１１１号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000002084/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000002084/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/12 14:46:34",
@@ -1872,7 +2182,9 @@
       "住所大阪府吹田市竹見台四丁目２番５号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603441/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603441/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/13 14:46:34",
@@ -1884,7 +2196,9 @@
       "住所大阪府吹田市千里丘下２１－１３",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731600710/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731600710/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/14 14:46:34",
@@ -1896,7 +2210,9 @@
       "住所大阪府吹田市津雲台四丁目２番２号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602955/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602955/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/15 14:46:34",
@@ -1908,7 +2224,9 @@
       "住所大阪府吹田市豊津町９番１号パシフィックマークス江坂３Ｆ",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603730/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603730/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/16 14:46:34",
@@ -1920,7 +2238,9 @@
       "住所大阪府吹田市南正雀二丁目３１番３号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000002086/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000002086/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/17 14:46:34",
@@ -1932,7 +2252,9 @@
       "住所大阪府吹田市片山町一丁目３１番１３号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603433/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603433/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/18 14:46:34",
@@ -1944,7 +2266,9 @@
       "住所大阪府吹田市五月が丘西７－１新星和プラネビル２０５",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000002080/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000002080/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/19 14:46:34",
@@ -1956,7 +2280,9 @@
       "住所大阪府吹田市南金田２丁目１４－２ミカサビル１階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603672/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603672/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/20 14:46:34",
@@ -1968,7 +2294,9 @@
       "住所大阪府吹田市千里山東2-28-5久世ビル3階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602229/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602229/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/21 14:46:34",
@@ -1980,7 +2308,9 @@
       "住所大阪府吹田市津雲台一丁目１番２号１１０",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000002090/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000002090/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/22 14:46:34",
@@ -1992,7 +2322,9 @@
       "住所大阪府吹田市青山台三丁目２６番３号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000002096/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z000002096/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/23 14:46:34",
@@ -2004,7 +2336,9 @@
       "住所大阪府吹田市片山町四丁目４番１号片山マンション",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731600736/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731600736/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/24 14:46:34",
@@ -2016,7 +2350,9 @@
       "住所大阪府吹田市山田南８番２８号アネックス池川２階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602708/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602708/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/25 14:46:34",
@@ -2028,7 +2364,9 @@
       "住所大阪府吹田市南吹田三丁目４番２６号ベルビューレ江坂弐番館２階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603003/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603003/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/26 14:46:34",
@@ -2040,7 +2378,9 @@
       "住所大阪府吹田市朝日町３番１１５号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603938/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603938/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/27 14:46:34",
@@ -2052,7 +2392,9 @@
       "住所大阪府吹田市出口町２８番１号ラガール豊津１階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603946/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603946/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/28 14:46:34",
@@ -2064,7 +2406,9 @@
       "住所大阪府吹田市原町四丁目１５番１号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731600751/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731600751/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/29 14:46:34",
@@ -2076,7 +2420,9 @@
       "住所大阪府吹田市泉町五丁目１番４７号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731600918/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731600918/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/30 14:46:34",
@@ -2088,7 +2434,9 @@
       "住所大阪府吹田市原町三丁目３番５号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601882/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601882/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/10/31 14:46:34",
@@ -2100,7 +2448,9 @@
       "住所大阪府吹田市千里山高塚１７－８－１０１",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602401/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602401/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/01 14:46:34",
@@ -2112,7 +2462,9 @@
       "住所大阪府吹田市千里山東一丁目１６番８号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602518/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602518/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/02 14:46:34",
@@ -2124,7 +2476,9 @@
       "住所大阪府吹田市原町４丁目７－１８２Ｆ",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603516/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603516/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/03 14:46:34",
@@ -2136,7 +2490,9 @@
       "住所大阪府吹田市泉町二丁目３１番１３号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603524/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603524/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/04 14:46:34",
@@ -2148,7 +2504,9 @@
       "住所大阪府吹田市千里丘上３２番１１号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604043/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604043/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/05 14:46:34",
@@ -2160,7 +2518,9 @@
       "住所大阪府吹田市山田西四丁目２番７０－１０２号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603557/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603557/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/06 14:46:34",
@@ -2172,7 +2532,9 @@
       "住所大阪府吹田市江坂町一丁目１１番１３号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601064/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601064/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/07 14:46:34",
@@ -2184,7 +2546,9 @@
       "住所大阪府吹田市五月が丘東７－３０ヴィラオハラ１階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602997/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602997/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/08 14:46:34",
@@ -2196,7 +2560,9 @@
       "住所大阪府吹田市朝日が丘町１５番９号第５関根マンション２階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601700/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601700/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/09 14:46:34",
@@ -2208,7 +2574,9 @@
       "住所大阪府吹田市五月が丘南９番５号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601692/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601692/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/10 14:46:34",
@@ -2220,7 +2588,9 @@
       "住所大阪府吹田市山田西四丁目１番３５号山田東阪急ビル２階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601841/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601841/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/11 14:46:34",
@@ -2232,7 +2602,9 @@
       "住所大阪府吹田市山田西４丁目８－１",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601031/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731601031/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/12 14:46:34",
@@ -2244,7 +2616,9 @@
       "住所大阪府吹田市千里山東1-16-5",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200006074/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200006074/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/13 14:46:34",
@@ -2256,7 +2630,9 @@
       "住所大阪府吹田市江の木町５－３ＬＨ江坂",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602336/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602336/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/14 14:46:34",
@@ -2268,7 +2644,9 @@
       "住所大阪府吹田市豊津町10-34井門江坂駅前ビル2F",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603466/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603466/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/15 14:46:34",
@@ -2280,7 +2658,9 @@
       "住所大阪府吹田市藤白台四丁目１５番８号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/y100002040/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/y100002040/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/16 14:46:34",
@@ -2292,7 +2672,9 @@
       "住所大阪府吹田市千里山星が丘1-2",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/y100002046/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/y100002046/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/17 14:46:34",
@@ -2304,7 +2686,9 @@
       "住所大阪府吹田市千里山西4-10-22",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005682/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200005682/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/18 14:46:34",
@@ -2316,7 +2700,9 @@
       "住所大阪府吹田市青山台4丁目31番20号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/g000000185/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/g000000185/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/19 14:46:34",
@@ -2328,7 +2714,9 @@
       "住所大阪府吹田市山田西二丁目１０番５号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/y100002039/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/y100002039/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/20 14:46:34",
@@ -2340,7 +2728,9 @@
       "住所大阪府吹田市佐井寺一丁目８番２４号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/y100002041/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/y100002041/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/21 14:46:34",
@@ -2352,7 +2742,9 @@
       "住所大阪府吹田市山田東２丁目２４番９号シャルム８８１０１号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/y100002045/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/y100002045/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/22 14:46:34",
@@ -2364,7 +2756,9 @@
       "住所大阪府吹田市青葉丘南４番５号リッツ青葉丘１階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/TP00285623/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/TP00285623/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/23 14:46:34",
@@ -2376,7 +2770,9 @@
       "住所大阪府吹田市佐竹台１丁目２番５号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/y100002048/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/y100002048/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/24 14:46:34",
@@ -2388,7 +2784,9 @@
       "住所大阪府吹田市南吹田５丁目１９番１４－２Ｆ",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/q100001855/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/q100001855/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/25 14:46:34",
@@ -2400,7 +2798,9 @@
       "住所大阪府吹田市山田西一丁目１番２号エクセル千里１０３号室",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/q100001885/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/q100001885/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/26 14:46:34",
@@ -2412,7 +2812,9 @@
       "住所大阪府吹田市岸部北五丁目７番２号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/g000006349/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/g000006349/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/27 14:46:34",
@@ -2424,7 +2826,9 @@
       "住所大阪府吹田市山田西一丁目２６番１５号メゾンドールⅢ２０１号室",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602872/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602872/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/28 14:46:34",
@@ -2436,7 +2840,9 @@
       "住所大阪府吹田市青葉丘北７－３４",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001929/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/z200001929/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/29 14:46:34",
@@ -2448,7 +2854,9 @@
       "住所大阪府吹田市寿町二丁目１１番１９号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602310/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731602310/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/11/30 14:46:34",
@@ -2460,7 +2868,9 @@
       "住所大阪府吹田市高浜町２番５号",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604100/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731604100/tab/6/",
+      "",
+      "無し"
     ],
     [
       "2022/12/01 14:46:34",
@@ -2472,7 +2882,9 @@
       "住所大阪府吹田市豊津町１４番３１号由谷エムワイビル２階",
       "",
       "",
-      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603961/tab/6/"
+      "https://haisha-yoyaku.jp/bun2sdental/detail/index/id/2731603961/tab/6/",
+      "",
+      "無し"
     ]
   ]
 }
